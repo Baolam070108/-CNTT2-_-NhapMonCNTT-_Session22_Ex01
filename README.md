@@ -11,5 +11,7 @@ Cần tìm giáo trình "Nhập môn Công nghệ Thông tin" bản PDF chính t
 ```text
 "Nhập môn Công nghệ Thông tin" filetype:pdf site:ptit.edu.vn -scribd -123doc
 ```
+<img width="1446" height="685" alt="image" src="https://github.com/user-attachments/assets/f8f3103a-c1b1-4a40-a12f-509cc05479fc" />
+
 
 - Mô tả tại sao việc dùng toán tử **filetype:** lại giúp tiết kiệm thời gian hơn so với việc gõ "tải sách..." thông thường.
